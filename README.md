@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muskan Gupta</h1>
+<h1 align="center">Hi 👋, I'm Muskan Kumari</h1>
 <h3 align="center">A passionate Student & Web Developer from India 🇮🇳</h3>
 
 <p align="center">
